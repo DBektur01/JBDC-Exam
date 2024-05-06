@@ -1,4 +1,8 @@
-package java13.enums;/**
-    Author: Bektur Duyshenbek uulu
-    */public enum Role {
+package java13.enums;
+
+/**
+ * Author: Bektur Duyshenbek uulu
+ */
+public enum Role {
+    ADMIN,USER;
 }
